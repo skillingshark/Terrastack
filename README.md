@@ -5,7 +5,7 @@ Terrastack Satellite Agri-Modeling
 
 ## Introduction
 
-This project aims to develop a machine learning model for classifying the growth stages of crops based on clipped raster data. The dataset consists of clipped rasters for 569 geographical grid cells (GIDs) across 12 agricultural months. The task involves creating a model that accurately classifies the growth stage of crops into the following categories: 'no_crop', 'growing', and 'lush'. The fields are annotated/labelled to the best of our judgement. Additionally, ground-truth annotations are provided as a CSV file in the GitHub repository.
+This project aims to develop a machine learning model for classifying the growth stages of crops based on clipped raster data. The dataset consists of clipped rasters for 569 geographical grid cells (GIDs) across 12 agricultural months. The task involves creating a model that accurately classifies the growth stage of crops into the following categories: 'no_crop', 'growing', and 'lush'.
 
 ## Data Exploration
 
