@@ -12,7 +12,7 @@ This project aims to develop a machine learning model for classifying the growth
 The initial step involved a thorough exploration of the dataset to understand its characteristics. This exploration included analyzing the distribution of data across different classes, visualizing sample images, and identifying any potential challenges or patterns in the data.
 
 - After Data Analysis we noted that the all images in the dataset didn't have the same shape. So, we plotted the height and width of the images to analyse them 
-- After analysis we got these results : ![image](https://github.com/skillingshark/Terrastack/assets/117962699/dd705c32-a884-42e3-bcc6-4f670acb0224)
+- After analysis we got these results : Analysis of sample raster image ![image](https://github.com/skillingshark/Terrastack/assets/117962699/dd705c32-a884-42e3-bcc6-4f670acb0224)
 
 ![image](https://github.com/skillingshark/Terrastack/assets/117962699/03664676-4ed6-4e57-a85d-896e26a86cf9)
 
